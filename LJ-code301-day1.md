@@ -1,0 +1,3 @@
+#LJ Code 301 - Day 1
+
+Monday I was dead tired, but all in all it was a good experience and I was able to get through the day without incident. Tuesday, me and Katherine Pryszlak completed the first lab assignment with relative ease; the first three TODO items I was the driver and she was the navigator and then we switched roles and completed the last two TODO items. We completed the assignment in about 40 minutes without incident and collaborated exceptionally well. I owe it to Katherine for being a patient and flexible work collaborator and it was a pleasure to be able to work with her on this paired project.
