@@ -1,0 +1,3 @@
+#LJ Code 301 - Day 11
+
+Did the lab today with Isaac, great guy, good sense of humor or at least he bothers listening to me, which is also due to his credit. Still confused, but slowly understanding what's being taught. I find myself taking more and more breaks and feeling exhausted by the time the day's done. Maybe it's just thinking more about what we're doing and feeling more and more like I'm falling behind despite trying to keep pace with the group. I'm not even sure if, even if I pass, that I'll be able to retain the majority of what's been learned about the back end this past 1.2 weeks. I guess I'll find out.
