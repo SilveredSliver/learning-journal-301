@@ -1,0 +1,3 @@
+#LJ Code 301 - Day 15
+
+It's Friday and we got our groups for project week. I just hope I'll be able to contribute enough to the effort in order to say I actually did some code work that made it to the end of the week. Today was all about work flow and figuring out how to communicate with the other team members. I'd be lying if I said I wasn't worried about ticking off either of the Katherines with some unintentional work, but here's hoping that doesn't happen. I'm not worried about Anthony, that guy has been pretty easy going this entire class, even though I haven't taken 201 with him. I've worked will all three of them at least once in the past on paired programming assignments. We'll see how it goes and I'll just hope for the best.
